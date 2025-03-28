@@ -56,4 +56,3 @@ solutions/
 This project is licensed under **GPL v3**.  
 
 📢 **Let’s make Cloud Native learning fun and collaborative!** 🚀
-```
